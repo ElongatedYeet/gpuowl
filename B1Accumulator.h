@@ -7,6 +7,7 @@
 #include "common.h"
 
 #include <cassert>
+#include <optional>
 
 class Gpu;
 class Args;
